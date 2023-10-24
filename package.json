@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://AngeloMar11/CursoReact4",
+  "homepage": "https://github.com/AngeloMar11/CursoReact4.git",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
